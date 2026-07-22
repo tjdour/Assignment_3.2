@@ -36,7 +36,7 @@ int FindIndex (int[] numbers, int toFind)
             
         }
 
-        //return -1;
+        
     }
     return -1;
 }
